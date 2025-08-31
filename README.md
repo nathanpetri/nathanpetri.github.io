@@ -1,7 +1,7 @@
 # 🚀 Portfólio de Análise de Dados – Nathan M. Petri
 
 📊 Apaixonado por transformar dados em insights!  
-🔧 Experiência em **Excel, Power BI, SQL e Python**.  
+🔧 Conhecimento em **Excel, Power BI, SQL e Python**.  
 🚀 Buscando minha primeira oportunidade em **Análise de Dados**.  
 
 ---
