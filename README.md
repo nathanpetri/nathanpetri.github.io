@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Análise de Dados – Nathan de Moraes Petri
+# 🚀 Portfólio de Análise de Dados – Nathan M. Petri
 
 📊 Apaixonado por transformar dados em insights!  
 🔧 Experiência em **Excel, Power BI, SQL e Python**.  
